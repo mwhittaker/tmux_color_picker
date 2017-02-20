@@ -1,0 +1,35 @@
+svg {
+  width: 100%;
+  height: 100%;
+}
+
+#terminal_background {
+  fill: #2C001E;
+}
+
+.terminal_text {
+  fill: white;
+  font-family: monospace;
+  font-size: 7pt;
+}
+
+/* Pane border */
+.pane-border-bg { }
+.pane-active-border-bg { }
+.pane-border-fg {
+  stroke: white;
+}
+.pane-active-border-fg {
+  stroke: gray;
+}
+
+#bottom_bar {
+  fill: #00ff00;
+}
+
+
+.clock-mode-colour {
+  font-family: monospace;
+  font-size: 42pt;
+  fill: white;
+}
